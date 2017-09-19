@@ -1,2 +1,2 @@
-# phasertut
+# Phaser Tutorial
 Phaser Script
